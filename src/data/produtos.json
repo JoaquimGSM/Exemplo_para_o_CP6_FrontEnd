@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nome": "Essencial One",
+    "categoria": "Coleção Essencial",
+    "preco": 79.9,
+    "descricao": "Um item versátil para deixar a rotina mais simples e agradável.",
+    "imagem": "/images/produto-01.svg",
+    "destaque": true
+  },
+  {
+    "id": 2,
+    "nome": "Urban Plus",
+    "categoria": "Linha Urbana",
+    "preco": 129.9,
+    "descricao": "Design contemporâneo com acabamento pensado para o uso diário.",
+    "imagem": "/images/produto-02.svg",
+    "destaque": true
+  },
+  {
+    "id": 3,
+    "nome": "Classic Mini",
+    "categoria": "Clássicos",
+    "preco": 54.5,
+    "descricao": "Formato compacto, visual atemporal e muita praticidade.",
+    "imagem": "/images/produto-03.svg",
+    "destaque": false
+  },
+  {
+    "id": 4,
+    "nome": "Viva Color",
+    "categoria": "Coleção Essencial",
+    "preco": 94.9,
+    "descricao": "Cores marcantes para quem gosta de personalidade nos detalhes.",
+    "imagem": "/images/produto-04.svg",
+    "destaque": true
+  },
+  {
+    "id": 5,
+    "nome": "Prime Select",
+    "categoria": "Premium",
+    "preco": 219.9,
+    "descricao": "Materiais selecionados e uma experiência de nível superior.",
+    "imagem": "/images/produto-05.svg",
+    "destaque": false
+  },
+  {
+    "id": 6,
+    "nome": "Move Pro",
+    "categoria": "Linha Urbana",
+    "preco": 149.9,
+    "descricao": "Feito para acompanhar um ritmo dinâmico com conforto.",
+    "imagem": "/images/produto-06.svg",
+    "destaque": false
+  },
+  {
+    "id": 7,
+    "nome": "Leve Duo",
+    "categoria": "Utilidades",
+    "preco": 39.9,
+    "descricao": "Solução leve e funcional para diferentes momentos do dia.",
+    "imagem": "/images/produto-07.svg",
+    "destaque": true
+  },
+  {
+    "id": 8,
+    "nome": "Origem Natural",
+    "categoria": "Sustentável",
+    "preco": 109.9,
+    "descricao": "Uma escolha consciente, durável e cheia de estilo.",
+    "imagem": "/images/produto-08.svg",
+    "destaque": false
+  },
+  {
+    "id": 9,
+    "nome": "Smart Daily",
+    "categoria": "Utilidades",
+    "preco": 64.9,
+    "descricao": "Funcionalidade inteligente para facilitar pequenas tarefas.",
+    "imagem": "/images/produto-09.svg",
+    "destaque": false
+  },
+  {
+    "id": 10,
+    "nome": "Signature",
+    "categoria": "Premium",
+    "preco": 289.9,
+    "descricao": "Detalhes sofisticados em uma edição que chama atenção.",
+    "imagem": "/images/produto-10.svg",
+    "destaque": true
+  },
+  {
+    "id": 11,
+    "nome": "Retrô 80",
+    "categoria": "Clássicos",
+    "preco": 119.9,
+    "descricao": "Inspiração retrô combinada com conveniência atual.",
+    "imagem": "/images/produto-11.svg",
+    "destaque": false
+  },
+  {
+    "id": 12,
+    "nome": "Eco Flex",
+    "categoria": "Sustentável",
+    "preco": 89.9,
+    "descricao": "Versátil, resistente e desenvolvido com menor impacto.",
+    "imagem": "/images/produto-12.svg",
+    "destaque": false
+  }
+]
